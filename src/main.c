@@ -811,7 +811,7 @@ int main(int argc, char **argv) {
 			} else {
 				return rc;
 			}
-		} else if (!strncmp(devcmd, "logout", 5)) { /*device control cmd */
+		} else if (!strncmp(devcmd, "logout", 6)) { /*device control cmd */
 			/* command */
 			snprintf(command, sizeof(command), "logout dev://%s\n", devnduid);
 			devport = NOVACOM_CTRLPORT;
