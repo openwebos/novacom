@@ -1,3 +1,12 @@
+NOTICE regarding 'novacom'
+==========================
+
+sha1
+----
+The following files are subject to the license and copyright notice of Paul E. Jones:
+- sha1.c
+- sha1.h
+
 Copyright (C) 1998
 Paul E. Jones <paulej@arid.us>
 All Rights Reserved.
@@ -11,3 +20,12 @@ THE AUTHOR SHALL NOT BE HELD LIABLE FOR ANY DAMAGES RESULTING
 FROM THE USE OF THIS SOFTWARE, EITHER DIRECTLY OR INDIRECTLY, INCLUDING,
 BUT NOT LIMITED TO, LOSS OF DATA OR DATA BEING RENDERED INACCURATE.
 
+LibTomCrypt
+-----------
+The following files are subject to the license and copyright notice of LibTomCrypt:
+- base64.c
+- base64.h
+
+LibTomCrypt is public domain.  As should all quality software be.
+
+Tom St Denis
