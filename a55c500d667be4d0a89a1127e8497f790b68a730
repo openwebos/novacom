@@ -1,0 +1,11 @@
+Code-Review+2: Herb Kuta <herb.kuta@palm.com>
+Code-Review+1: Keith Derrick <keith.derrick@palm.com>
+Code-Review+1: Steve Lemke <steve.lemke@palm.com>
+Code-Review+1: Pekka Ropo <pekka.ropo@palm.com>
+Verified+1: Pekka Ropo <pekka.ropo@palm.com>
+Code-Review+1: Build Verification
+Submitted-by: Herb Kuta <herb.kuta@palm.com>
+Submitted-at: Fri, 19 Oct 2012 13:24:31 -0700
+Reviewed-on: http://g2g.palm.com/733
+Project: novacom
+Branch: refs/heads/cmake_conversion
